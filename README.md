@@ -36,6 +36,7 @@ The system uses a JSON file to save and load product data, which means that the 
 
 ## Project Structure
 
+```text
 InventoryManagementSystem
 │
 ├── Program.cs
